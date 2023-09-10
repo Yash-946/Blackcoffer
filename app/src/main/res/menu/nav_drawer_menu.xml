@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/editprofile"
+        android:title="Edit Profile"/>
+    <item
+        android:id="@+id/mynetwork"
+        android:title="My Network"/>
+    <item
+        android:id="@+id/s2b"
+        android:title="Switch to Business"/>
+    <item
+        android:id="@+id/s2m"
+        android:title="Switch to Merchant"/>
+    <item
+        android:id="@+id/dating"
+        android:title="Dating"/>
+    <item
+        android:id="@+id/matrimony"
+        android:title="Matrimony"/>
+    <item
+        android:id="@+id/bsr"
+        android:title="Buy Sell Rent"/>
+    <item
+        android:id="@+id/jobs"
+        android:title="Jobs"/>
+    <item
+        android:id="@+id/bc"
+        android:title="Business Card"/>
+    <item
+        android:id="@+id/ng"
+        android:title="Netclan Groups"/>
+    <item
+        android:id="@+id/notes"
+        android:title="Notes"/>
+    <item
+        android:id="@+id/location"
+        android:title="Live Locations"/>
+</menu>

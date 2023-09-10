@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Blackcoffer</string>
+    <string name="status">Hi community! I am open to new connections "😊"</string>
+    <string name="save_explore"><![CDATA[Save & Explore]]></string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
